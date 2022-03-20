@@ -1,0 +1,27 @@
+h1{
+    color: rgb(255, 253, 253);
+    border: 10px solid rgb(33, 37, 255);
+    background-color: rgb(11, 117, 255);
+}
+/*body{
+    background-color: #e0e7ff;
+}
+img{
+    border: 3px solid black;
+}
+p{
+    font-family: comic sans ms;
+    font-weight: italic;
+}
+ol,ul{
+    font-family: comic sans ms;
+}*/
+body {
+    border: solid
+}
+.menu{
+background-color:beige;
+ display: flex;
+justify-content: flex-end;
+
+}
